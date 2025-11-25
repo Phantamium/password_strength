@@ -5,7 +5,7 @@ Project Overview
 ----------------
 This project is a simple Python console application that allows the user to check the 
 strength of a password or generate a strong password automatically.  
-It was created for the flipped course “Introduction to Problem Solving using Python.”
+
 
 Features
 --------
@@ -16,10 +16,10 @@ Features
   - lowercase letters
   - digits
   - special characters
-- Strength levels displayed from "Very Weak" to "Very Strong"
+- Strength levels displayed from "Very Weak" to "Very Strong", going through weak, medium and strong.
 - Built-in password generator that creates an 8-character password with a fixed mix of characters
 - Characters are shuffled before displaying the final password
-- No external dependencies required
+
 
 Technologies / Tools Used
 -------------------------
@@ -45,9 +45,15 @@ Instructions for Testing
 
 Screenshots (Optional but Recommended)
 -------------------------------------
+This is how the menu - like interface looks like-
+
 <img width="758" height="366" alt="image" src="https://github.com/user-attachments/assets/f4feb5e2-67a2-41b2-8883-6eaca30fd493" />
 
+This is if you wanna check your password strength
+
 <img width="677" height="302" alt="image" src="https://github.com/user-attachments/assets/e174af97-ad24-46c0-bdb9-84f85b3a5cc1" />
+
+And if the user opts to generate a strong password...
 
 <img width="650" height="311" alt="image" src="https://github.com/user-attachments/assets/122eb001-a3cf-467c-bf40-db5da7ed04a9" />
 
